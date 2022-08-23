@@ -27,38 +27,17 @@ Also for a better user experience I've included bootstrap, html, css and javascr
 This app is made as a school project by Bojan Dukovski.
 
 ## Screenshots
+This is where all the books are listed. You take next action from here.
+![](screenshots/Screenshot_2.png)
 
-![Employee data](/Screenshot_2.png?raw=true "2")
-![Employee data](/Screenshot_3?raw=true "3")
+If you create a profile your name would be in this 'list of authors'.
+![](screenshots/Screenshot_3.png)
 
 ## Built With
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" /></a><a href="https://docs.oracle.com/javase/tutorial/index.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a><a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a>
 
-## Getting Started
 
-What do I need to do or know before attempting to use your project
-
-### Prerequisites
-
-What do I need to install before I can run your project
-
-### Installation
-
-How do I get your project running?
-
-## Usage
-
-How do I use your project
-
-
-## License
-
-<a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
-
-## Acknowledgements
-
-Who helped you make this project a reality? Friends? Family? Contributors? Instructors?
 
 ## Contacts
 
